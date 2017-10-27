@@ -1,0 +1,150 @@
+3 Abkhazia
+4522 Afghanistan
+3 Albania
+41 Algeria
+0 Andorra
+4 Angola
+0 Antigua and Barbuda
+141 Argentina
+53 Armenia
+0 Artsakh
+317 Australia
+11 Austria
+12 Azerbaijan
+0 The Bahamas
+131 Bahrain
+22 Bangladesh
+2 Barbados
+22 Belarus
+79 Belgium
+1 Belize
+5 Benin
+0 Bhutan
+13 Bolivia
+0 Bosnia and Herzegovina
+2 Botswana
+454 Brazil
+15 Brunei
+30 Bulgaria
+0 Burkina Faso
+59 Myanmar
+20 Burundi
+31 Cambodia
+21 Cameroon
+428 Canada
+0 Cape Verde
+0 Central African Republic
+12 Chad
+162 Chile
+3483 China
+70 Taiwan
+283 Colombia
+0 Comoros
+0 Democratic Republic of the Congo
+0 Republic of the Congo
+0 Cook Islands
+0 Costa Rica
+0 Ivory Coast
+6 Croatia
+2634 Cuba
+24 Cyprus
+0 Czech Republic
+0 North Korea
+28 Denmark
+6 Djibouti
+44 Dominica
+0 Dominican Republic
+0 East Timor
+20 Ecuador
+2134 Egypt
+0 El Salvador
+0 Equatorial Guinea
+1 Eritrea
+29 Estonia
+97 Ethiopia
+0 Fiji
+28 Finland
+582 France
+15 Gabon
+0 The Gambia
+240 Georgia
+471 Germany
+74 Ghana
+392 Greece
+1 Grenada
+44 Guatemala
+20 Guinea
+0 Guinea-Bissau
+1 Guyana
+463 Haiti
+0 Vatican City
+71 Honduras
+24 Hungary
+9 Iceland
+1618 India
+379 Indonesia
+10741 Iran
+6546 Iraq
+88 Ireland
+3573 Israel
+144 Italy
+6 Jamaica
+1392 Japan
+591 Jordan
+39 Kazakhstan
+241 Kenya
+2 Kiribati
+0 South Korea
+77 Kosovo
+28 Kuwait
+36 Kyrgyzstan
+14 Laos
+9 Latvia
+103 Lebanon
+0 Lesotho
+42 Liberia
+2287 Libya
+0 Liechtenstein
+14 Lithuania
+5 Luxembourg
+2 Macedonia
+1 Madagascar
+1 Malawi
+335 Malaysia
+4 Maldives
+213 Mali
+0 Malta
+0 Marshall Islands
+3 Mauritania
+0 Mauritius
+782 Mexico
+0 Micronesia
+45 Moldova
+134 Monaco
+6 Mongolia
+18 Montenegro
+27 Morocco
+2 Mozambique
+0 Namibia
+0 Nauru
+19 Nepal
+22 Netherlands
+0 New Zealand
+10 Nicaragua
+470 Niger
+454 Nigeria
+0 Niue
+0 Northern Cyprus
+25 Norway
+20 Oman
+2182 Pakistan
+2 Palau
+35 Palestine
+142 Panama
+0 Papua New Guinea
+0 Paraguay
+6 Peru
+153 Philippines
+194 Poland
+23 Portugal
+3 Transnistria
