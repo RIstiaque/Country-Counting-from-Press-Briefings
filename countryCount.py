@@ -21,10 +21,9 @@ def main():
         fIn1 = open('pressBriefings/' + str(count) + '.html', "r")
         briefLines = fIn1.readlines()
         for lines in briefLines:
-            for word in lines.split():
-                for country in numCountryDict: # Increase country count per instance.
-                    if country in word:
-                        numCountryDict[country] += 1
+            for country in numCountryDict: # Increase country count per instance.
+                if country in lines:
+                    numCountryDict[country] += 1
         fIn1.close()
 
     fIn1 = open('countryCount.txt', "w")
